@@ -5,12 +5,13 @@
 
 	<body>
 		<h1>Puspa Budiarti</h1>
-    <h2>Chintya Rifyaningrum</h2>
+		<h2>Chintya Rifyaningrum</h2>
 		<h3>Muhammad Zein Hanafi</h3>
-    <h4>Nikko Handiarto</h4>
+		<h4>Nikko Handiarto</h4>
 		<h5>Zacky Burhani Hotib</h5>
-    <h6>Muhamad Rinaldy</h6>
-    <h7>Gugum Gumilar</h7>
+		<h6>Muhamad Rinaldy</h6>
+		<h7>Gugum Gumilar</h7>
+		<h8> BUDI LUHUR </h8>
 	</body>
 
 
