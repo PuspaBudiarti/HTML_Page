@@ -5,7 +5,7 @@
 	
 	<body>
 		<h1>Puspa Budiarti</h1>
-		<h2> </h2>
+		<h2>Chintya Rifyaningrum</h2>
 	</body>
 
 
