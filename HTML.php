@@ -9,6 +9,7 @@
 		<h3>Muhammad Zein Hanafi</h3>
     <h4>Nikko Handiarto</h4>
 		<h5>Zacky Burhani Hotib</h5>
+    <h6>Muhamad Rinaldy</h6>
 	</body>
 
 
